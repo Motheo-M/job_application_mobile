@@ -74,7 +74,7 @@ Distributed under the GNU General Public License v3.0. See `LICENSE.txt` for mor
 
 🖥️ **Sebabatso Moleele**
 
-* Github: [@johnDorman98](https://github.com/johnDorman98)
+* Github:
 
 **Motheo Motau**
 
